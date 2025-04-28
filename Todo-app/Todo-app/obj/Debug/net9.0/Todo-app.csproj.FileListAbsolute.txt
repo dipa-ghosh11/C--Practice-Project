@@ -1,0 +1,14 @@
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\bin\Debug\net9.0\Todo-app.exe
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\bin\Debug\net9.0\Todo-app.deps.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\bin\Debug\net9.0\Todo-app.runtimeconfig.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\bin\Debug\net9.0\Todo-app.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\bin\Debug\net9.0\Todo-app.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.AssemblyInfoInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.AssemblyInfo.cs
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.csproj.CoreCompileInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\refint\Todo-app.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\Todo-app.genruntimeconfig.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\.NET\Todo-app\Todo-app\obj\Debug\net9.0\ref\Todo-app.dll

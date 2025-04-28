@@ -1,0 +1,14 @@
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\bin\Debug\net9.0\MyFirstApp.exe
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\bin\Debug\net9.0\MyFirstApp.deps.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\bin\Debug\net9.0\MyFirstApp.runtimeconfig.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\bin\Debug\net9.0\MyFirstApp.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\bin\Debug\net9.0\MyFirstApp.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll
