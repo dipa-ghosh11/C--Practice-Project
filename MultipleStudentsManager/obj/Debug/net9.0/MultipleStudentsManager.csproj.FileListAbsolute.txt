@@ -1,0 +1,15 @@
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.AssemblyInfoInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.AssemblyInfo.cs
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.csproj.CoreCompileInputs.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.sourcelink.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\bin\Debug\net9.0\MultipleStudentsManager.exe
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\bin\Debug\net9.0\MultipleStudentsManager.deps.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\bin\Debug\net9.0\MultipleStudentsManager.runtimeconfig.json
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\bin\Debug\net9.0\MultipleStudentsManager.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\bin\Debug\net9.0\MultipleStudentsManager.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\refint\MultipleStudentsManager.dll
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.pdb
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\MultipleStudentsManager.genruntimeconfig.cache
+C:\Users\DIPA\OneDrive\Desktop\PROGRAMING\C#\MultipleStudentsManager\obj\Debug\net9.0\ref\MultipleStudentsManager.dll
